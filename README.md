@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @techNomads-yt
+- 👋 Hi, I’m @techNomads
 - 👀 I’m interested in building user friendly applications.
 
 <!---
